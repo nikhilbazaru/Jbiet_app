@@ -15,7 +15,7 @@
     <label>jbiet Lightning</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
-    <tabs>jbiet__c</tabs> 
+    <tabs>jbiet__c</tabs>
     <tabs>My_Table_Page</tabs>
     <tabs>error__c</tabs>
     <uiType>Lightning</uiType>
