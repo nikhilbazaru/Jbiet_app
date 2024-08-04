@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>jbiet_pic</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>student management system JBIET</description>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>jbiet Lightning</label>
+    <navType>Standard</navType>
+    <tabs>standard-home</tabs>
+    <tabs>jbiet__c</tabs> 
+    <tabs>My_Table_Page</tabs>
+    <tabs>error__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>jbiet_Lightning_UtilityBar</utilityBar>
+</CustomApplication>
